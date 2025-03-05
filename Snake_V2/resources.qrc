@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file>data/head.png</file>
+    <file>data/dot.png</file>
+    <file>data/apple.png</file>
+</qresource>
+</RCC>
